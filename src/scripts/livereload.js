@@ -4,7 +4,7 @@
 
 // var LIVERELOAD_HOST = 'localhost:';
 // var LIVERELOAD_PORT = 35729;
-// var connection = new WebSocket('ws+unix:/civet-ipc.socket');
+// var connection = new WebSocket('ws+unix:///tmp/civet-ipc.socket');
 // var connection = new WebSocket('wss://' + LIVERELOAD_HOST + LIVERELOAD_PORT + '/livereload');
 
 // connection.onerror = function (error) {
